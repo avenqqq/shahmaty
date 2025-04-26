@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Chess"
         mc:Ignorable="d"
-        Title="MainWindow" Height="679" Width="656">
+        Title="MainWindow" Height="679" Width="656" ResizeMode="NoResize">
     <Canvas Name="Field" Height="640" Width="640">
+        <Image Source="/Bbishop.png"></Image>
     </Canvas>
 </Window>
